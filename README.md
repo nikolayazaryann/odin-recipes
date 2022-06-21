@@ -1,1 +1,1 @@
-This is my first project using Git.
+My first project - Recipes Website to get a basic understanding of HTML.
