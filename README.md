@@ -1,1 +1,1 @@
-My first project - Recipes Website to get a basic understanding of HTML.
+My first project - Recipes Website (basic HTML)
